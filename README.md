@@ -5,6 +5,10 @@ o problema que escolhemos foi a falta de segurança nos colégios. Para solucion
 para colocar as informaçoẽs deles, como o nome completo, o número de matricula e a turma. 
 
 ## Funcionalidade
+1 - O aplicativo vai funcionar como um meio de ajuda e segurança para os estudantes de tal instituição. 
+
+2 - Por exemplo, os alunos poderão utilizar o aplicativo quando estiverem com algum problema de saúde. 
+
 
 
 ## Usabilidade da solução
