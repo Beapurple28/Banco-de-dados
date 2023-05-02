@@ -20,10 +20,15 @@ Os estudantes vão entrar no aplicativo, vai ligar o GPS e o aplicativo automati
 ## Autoria
 Beatriz Neves de Jesus Ferreira
 
+
 Bianca Mota Cerqueira
+
 
 Bianca Neves de jesus Ferreira
 
+
 Crislane pereira de araujo
 
+
 Juliana vieira amorim
+
