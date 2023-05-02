@@ -1,5 +1,5 @@
 # Projeto integrador
-
+https://www.canva.com/design/DAFhZM2KfA0/Mz0yxe80AJFVXFyrvU6sfA/view?utm_content=DAFhZM2KfA0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 ## Descrição 
 o problema que escolhemos foi a falta de segurança nos colégios. Para solucionar esse problema pensamos em um aplicativo que pode ajudar neste caso. o aplicativo vai ajudar na segurança dos colégios,como na entrada e na saída dos alunos,esse aplicativo de celular visa indicar onde se encontra os alunos que estejam próximos das escolas. o aplicativo vai poder funcionar sem nenhuma conexão com a internet,ele terá um cadastro para os alunos, 
 para colocar as informaçoẽs deles, como o nome completo, o número de matricula e a turma. 
